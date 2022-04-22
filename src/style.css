@@ -1,0 +1,30 @@
+h1,
+p {
+  font-family: Lato;
+}
+.accordion-title {
+  border: 1px solid gray;
+  padding: 20px;
+  background: white;
+  cursor: pointer;
+}
+
+.accordion-content {
+  border: 1px solid gray;
+  padding: 20px;
+  background: #d2d2d2;
+}
+
+.accordion-container {
+  margin: 5px;
+}
+
+.search {
+  padding: 5px 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.center {
+  text-align: center;
+}
